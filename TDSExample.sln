@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDSExample.Web", "TDSExample.Web\TDSExample.Web.csproj", "{7AD9528E-4C08-45F2-883C-6CD9703C424C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".tds", ".tds", "{DE4A4F03-43F8-4C9B-99F2-CE3004082358}"
+	ProjectSection(SolutionItems) = preProject
+		TdsGlobal.config = TdsGlobal.config
+	EndProjectSection
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSExample.TDS.Core", "TDSExample.TDS.Core\TDSExample.TDS.Core.scproj", "{25391608-02B1-46D5-A0AA-5ED3309B67E3}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSExample.TDS.Master", "TDSExample.TDS.Master\TDSExample.TDS.Master.scproj", "{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSExample.TDS.Content", "TDSExample.TDS.Content\TDSExample.TDS.Content.scproj", "{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD9528E-4C08-45F2-883C-6CD9703C424C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD9528E-4C08-45F2-883C-6CD9703C424C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD9528E-4C08-45F2-883C-6CD9703C424C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD9528E-4C08-45F2-883C-6CD9703C424C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25391608-02B1-46D5-A0AA-5ED3309B67E3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D14D9F9-F2B2-4C92-AE52-E0EDD8E7CD81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5F702B-D579-46A6-A14F-C3B793CC9E3E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

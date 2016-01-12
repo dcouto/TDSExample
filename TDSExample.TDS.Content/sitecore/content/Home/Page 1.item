@@ -1,0 +1,161 @@
+----item----
+version: 1
+id: {EB6C101A-2228-47FF-8B97-E5528E6DF681}
+database: master
+path: /sitecore/content/Home/Page 1
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Page 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 648
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" s:l="{5AAC22AB-B638-42FD-988F-E2A267A355C0}"><r uid="{43222D12-08C9-453B-AE96-D406EBB95126}"><p:d /></r><r uid="{CF044AD9-0332-407A-ABDE-587214A2C808}"><p:d /></r><p uid="{55EF6012-5358-46A3-90FB-2B0DEE08D004}" p:before="r[@uid='{86832A89-3DFD-4DC6-A3EE-236153C1F856}']" s:key="Main" s:md="/sitecore/layout/Placeholder Settings/Main" /><r uid="{86832A89-3DFD-4DC6-A3EE-236153C1F856}" s:ds="{DB106BB0-70EC-4726-B0B8-F7CC212DDA0C}" s:id="{23E90F44-BC13-4C6F-A769-0AB7FC61DED8}" s:par="" s:ph="Main" /><r uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"><p:d /></r></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: d70f90bd-f9bd-4574-a540-9ac2d326db27
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 6
+
+Page 1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160111T220520Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d70f90bd-f9bd-4574-a540-9ac2d326db27
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160111T220729Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: 37f8fe36-4128-41e1-8756-a7b72c4c2bd7
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 6
+
+Page 1
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 244
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{535D4EEC-E833-4CC5-9A5F-F62FA97C2425}" s:ds="{070B8232-C83D-4392-B72B-B99521963602}" s:id="{23E90F44-BC13-4C6F-A769-0AB7FC61DED8}" s:ph="Main" /></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160112T141437Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160112T141437Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 19
+
+sitecore\testauthor
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+37f8fe36-4128-41e1-8756-a7b72c4c2bd7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160112T142126Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 19
+
+sitecore\testauthor
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
